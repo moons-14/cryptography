@@ -8,4 +8,4 @@
 [MOONS APPS](https://moonsnetwork.sakuraweb.com/apps/)
 
 # License
-The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
+This software is released under the MIT License, see LICENSE.
