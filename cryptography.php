@@ -1,7 +1,7 @@
 <?php
 /**
 
-Copyright (c) 2020 Moons Softwares
+Copyright (c) 2021 Moons Softwares
 
 This software is released under the MIT License.
 http://opensource.org/licenses/mit-license.php
