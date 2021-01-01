@@ -6,3 +6,6 @@
 [このページを参考にしてください](https://moonsnetwork.sakuraweb.com/apps/API/0.php)
 ## API提供元
 [MOONS APPS](https://moonsnetwork.sakuraweb.com/apps/)
+
+# License
+The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
