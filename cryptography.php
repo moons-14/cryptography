@@ -1,4 +1,11 @@
 <?php
+/**
+
+Copyright (c) 2020 Moons Softwares
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
 header('Content-Type: application/json; charset=UTF-8');
 if($_GET['mode']=="encryption"){
     if(isset($_GET['key'])&&isset($_GET['text'])){
